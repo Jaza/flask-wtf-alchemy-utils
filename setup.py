@@ -23,7 +23,7 @@ setuptools.setup(
     zip_safe=False,
     platforms='any',
 
-    install_requires=['Flask-WTF', 'WTForms-Alchemy'],
+    install_requires=['Flask', 'Flask-WTF', 'WTForms-Alchemy'],
 
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
